@@ -1,0 +1,8 @@
+i am trying to do it
+Actually, you can do this quite easily from the command line. The trick is to type your message (without a closing quote!) and then hit enter twice, and then type your extended message, close the quote and press enter.
+
+It should look like:
+
+$ git commit -m "Make everything work.
+dquote>
+dquote> Add magic code that fixes everything"
